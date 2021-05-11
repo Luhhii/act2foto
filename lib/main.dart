@@ -55,7 +55,7 @@ class PaginaInicio extends StatelessWidget {
                 height: 100,
                 width: 100,
                 child: Image.asset(
-                  'assets/foto.jpg',
+                  'assets/foto perfil.png',
                   width: 100.0,
                 ),
                 decoration: BoxDecoration(
